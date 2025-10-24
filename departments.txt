@@ -1,0 +1,4 @@
+Cardiology,2,+380441234567
+Dermatology,3,+380442345678
+Pediatrics,1,+380443456789
+Neurology,4,+380444567890
