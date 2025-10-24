@@ -1,0 +1,4 @@
+2025-10-20,1,1,1,2 tablets per day
+2025-10-21,2,3,2,1 capsule every 8 hours
+2025-10-22,3,2,3,10 ml twice daily
+2025-10-23,4,4,4,1 tablet after meal

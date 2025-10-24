@@ -1,0 +1,5 @@
+Shevchenko,Andriy,1985-07-12,+380671234567,Kyiv,Shevchenko@example.com
+Kovalchuk,Iryna,1990-03-25,+380931112233,Lviv,Iryna.Kovalchuk@example.com
+Melnyk,Oleh,1978-11-02,+380501234567,Kharkiv,Oleh.Melnyk@example.com
+Petrenko,Olena,1988-09-14,+380991234567,Odesa,Olena.Petrenko@example.com
+Bondar,Mykola,1995-05-30,+380671122334,Dnipro,Mykola.Bondar@example.com

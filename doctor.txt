@@ -1,0 +1,4 @@
+Ivanov,Petro,Cardiologist,+380671111111,ivanov@example.com,1
+Kravets,Olha,Dermatologist,+380931234567,kravets@example.com,2
+Tkachenko,Serhiy,Therapist,+380661234567,tkachenko@example.com,1
+Bondar,Kateryna,Pediatrician,+380501234567,bondar@example.com,3

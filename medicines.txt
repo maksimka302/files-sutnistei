@@ -1,0 +1,4 @@
+Paracetamol,Darnytsia,Tablets,50.00
+Amoxicillin,Arterium,Capsules,120.00
+Nurofen,Reckitt Benckiser,Suspension,180.00
+No-shpa,Sanofi,Tablets,90.00

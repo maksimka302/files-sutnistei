@@ -1,0 +1,4 @@
+Consultation,General patient consultation,300.00
+ECG,Electrocardiogram test,500.00
+Ultrasound,Ultrasound diagnostics,700.00
+Blood test,Standard blood analysis,250.00
